@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\C#\Convolutional Code - Encoder - Decoder - Viterbi\Convolutional Code - Encoder - Decoder - Viterbi\obj\Debug\net8.0\Convolutional Code - Encoder - Decoder - Viterbi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Convolutional Code - Encoder - Decoder - Viterbi\Convolutional Code - Encoder - Decoder - Viterbi\obj\Debug\net8.0\Convolutional Code - Encoder - Decoder - Viterbi.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Convolutional Code - Encoder - Decoder - Viterbi\Convolutional Code - Encoder - Decoder - Viterbi\obj\Debug\net8.0\Convolutional Code - Encoder - Decoder - Viterbi.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Convolutional Code - Encoder - Decoder - Viterbi\Convolutional Code - Encoder - Decoder - Viterbi\obj\Debug\net8.0\Convolutional Code - Encoder - Decoder - Viterbi.csproj.CoreCompileInputs.cache
